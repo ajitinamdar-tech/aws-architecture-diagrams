@@ -7,3 +7,5 @@ This repository will be a home for all architecture diagrams along with raw file
 - Raw: https://github.com/ajitinamdar-tech/aws-architecture-diagrams/tree/main/raw
 
 - Png: https://github.com/ajitinamdar-tech/aws-architecture-diagrams/blob/main/png/aws-three-tier-architecture-advanced.drawio.png
+
+![alt text] (https://github.com/ajitinamdar-tech/aws-architecture-diagrams/blob/main/png/aws-three-tier-architecture-advanced.drawio.png)
